@@ -1,0 +1,15 @@
+D:\21DTHD3\QLSV\QLSV\bin\Debug\QLSV.exe.config
+D:\21DTHD3\QLSV\QLSV\bin\Debug\QLSV.exe
+D:\21DTHD3\QLSV\QLSV\bin\Debug\QLSV.pdb
+D:\21DTHD3\QLSV\QLSV\bin\Debug\EntityFramework.dll
+D:\21DTHD3\QLSV\QLSV\bin\Debug\EntityFramework.SqlServer.dll
+D:\21DTHD3\QLSV\QLSV\bin\Debug\EntityFramework.xml
+D:\21DTHD3\QLSV\QLSV\bin\Debug\EntityFramework.SqlServer.xml
+D:\21DTHD3\QLSV\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+D:\21DTHD3\QLSV\QLSV\obj\Debug\QLSV.Form1.resources
+D:\21DTHD3\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+D:\21DTHD3\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+D:\21DTHD3\QLSV\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+D:\21DTHD3\QLSV\QLSV\obj\Debug\QLSV.csproj.CopyComplete
+D:\21DTHD3\QLSV\QLSV\obj\Debug\QLSV.exe
+D:\21DTHD3\QLSV\QLSV\obj\Debug\QLSV.pdb
